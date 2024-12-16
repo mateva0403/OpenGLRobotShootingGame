@@ -1,0 +1,260 @@
+﻿  main.cpp
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(23,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(25,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(26,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(27,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(31,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(33,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(359,46): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(359,40): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(370,65): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(370,41): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(370,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(384,43): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(389,41): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(389,35): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(393,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(393,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(399,43): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(399,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(415,47): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(415,41): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(422,62): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(422,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(426,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(437,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(437,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(444,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(444,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(458,51): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(458,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(458,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(470,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(480,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(495,66): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(495,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(495,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(503,63): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(503,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(507,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(518,38): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(518,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(525,38): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(525,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(541,51): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(541,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(541,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(552,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(575,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(585,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(587,65): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(587,41): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(587,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(604,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(604,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(612,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(624,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(628,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(636,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(636,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(656,38): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(656,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(664,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(676,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(680,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(688,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(688,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(705,51): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(705,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(705,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(781,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(782,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(783,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(794,40): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(794,34): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(803,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(804,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(846,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(847,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(848,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(903,23): warning C4305: '+=': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(986,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(1015,20): warning C4305: '+=': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\blitzcrank.h(1024,23): warning C4305: '+=': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\main.cpp(112,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\main.cpp(113,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\main.cpp(114,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  QuadMesh.cpp
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\QuadMesh.cpp(36,19): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\QuadMesh.cpp(58,21): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\QuadMesh.cpp(93,8): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\CPS511Blitzcrank\QuadMesh.cpp(99,8): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+  Generating Code...
+glew32s.lib(glew.obj) : warning LNK4099: PDB '' was not found with 'glew32s.lib(glew.obj)' or at ''; linking object as if no debug info
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  CPS511Blitzcrank.vcxproj -> C:\Users\The Rock\source\repos\Group96_Assignment3_Blitzcrank\CPS511Blitzcrank\x64\Debug\CPS511Blitzcrank.exe
+          1 file(s) copied.
