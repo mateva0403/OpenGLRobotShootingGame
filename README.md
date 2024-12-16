@@ -8,8 +8,7 @@ email: matthew.evangelista@torontomu.ca
 
 Included in this Zip Are:
 1. CPS511Blitzcrank Solution Folder
-2. Demo Video
-3. This README file
+2. This README file
 
 Features:
 1. Round-Based Shooting Game with Non-Texture Mapped Hierarchical Bots walking forward shooting at 
