@@ -4,7 +4,6 @@ This is a simple first-person robot shooting game coded with OpenGL. This is a r
 # Blitzcrank 3D Shooting Game
 by: Matthew Evangelista
 email: matthew.evangelista@torontomu.ca
-===========================================
 
 Included in this Zip Are:
 1. CPS511Blitzcrank Solution Folder
